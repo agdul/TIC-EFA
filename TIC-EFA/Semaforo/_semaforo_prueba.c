@@ -21,7 +21,7 @@ void setup(){
 }
 
  /*
-    En el bucle simplemente preguntamos si la variable "inicio" es verdadera llamamos a la función "Inicio" sino llamamos a "Semaforo"
+    En el bucle prendemos nuestro semaforo 
   */
 void loop(){
     digitalWrite(ledVerde, HIGH);
